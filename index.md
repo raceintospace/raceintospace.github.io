@@ -1,3 +1,3 @@
----
-include: manual.md
----
+# Manual
+
+- Open a [manual](manual.md)
